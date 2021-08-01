@@ -1,0 +1,121 @@
+% The Thaumaturgy and Necromancy supplement for Sanguine Dreams
+% Organized and largely written by Poetics
+
+\documentclass[10pt,twoside]{extarticle}
+
+\usepackage{pdfpages}
+\usepackage{multirow}
+\usepackage{bookman}
+\usepackage{wallpaper}
+\usepackage{color}				% allows color
+\usepackage{pifont}				% Special symbol library
+\usepackage[usenames]{xcolor}	% Add coloration if necessary
+\usepackage{enumitem}
+\usepackage{tocloft}
+\usepackage{titlesec}
+\usepackage{fancyhdr}		% Custom headers/footers
+\usepackage[normalem]{ulem}
+
+% This is to offset the "two-side" option above,
+% required for the FancyFooter package to work
+\setlength{\oddsidemargin}{0.87in}
+\setlength{\evensidemargin}{0.87in}
+
+\pagestyle{fancy}
+\fancyhead{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot{}
+\fancyfoot[CE,CO]{\sc{Ch.} \leftmark}
+\fancyfoot[LE,RO]{\thepage}
+	
+% All for the TOC
+\renewcommand{\cftsecleader}{\cftdotfill{\cftsecdotsep}}
+\renewcommand\cftsecdotsep{\cftdot}
+\renewcommand{\contentsname}{Table of Contents}
+\cftsetindents{section}{0in}{0.25in}
+\cftsetindents{subsection}{0.25in}{0.31in}
+
+\newcommand{\TitleRule}{\rule{\linewidth}{0.3mm}}
+\newcommand{\HRule}{\noindent\hfil\rule{0.5\textwidth}{0.2pt}\hfil}
+\renewcommand{\baselinestretch}{1.075}
+\setitemize{leftmargin=3mm,itemindent=0mm,itemsep=-1mm,topsep=2pt,rightmargin=3mm}
+\setenumerate{leftmargin=3mm,itemindent=0mm,itemsep=-1mm,topsep=2pt,rightmargin=3mm}
+\setdescription{leftmargin=3mm,itemindent=0mm,itemsep=-1mm,topsep=2pt,rightmargin=3mm}
+
+%%% COMMENT OUT FOR PRINT VERSION %%%
+%\usepackage[bookmarks=true]{hyperref}
+%\hypersetup{colorlinks=true,linkcolor=red,urlcolor=blue}
+
+\begin{document}
+\includepdf{Crimson_Cover.pdf}
+\ClearWallPaper					%% UNCOMMENT FOR PRINT VERSION %%%
+\thispagestyle{empty}				%% UNCOMMENT FOR PRINT VERSION %%%
+\mbox{}							%% UNCOMMENT FOR PRINT VERSION %%%
+\newpage			
+
+\addtolength{\wpXoffset}{-4pt}
+\addtolength{\wpYoffset}{1pt}
+\CenterWallPaper{.86}{background4.png}		% Uncomment if regular style
+\input{./Title_Page.tex}		%
+%Create the dedication page after the title
+\newpage
+\ClearWallPaper
+\thispagestyle{empty}
+\vspace*{6.0cm}
+\begin{center}
+	{\large {\color{gray}\emph{``There is always danger for those who are afraid.'' \\[1cm] \hspace{12ex} --- George Bernard Shaw}}}
+\end{center}
+
+% Table of Contents
+\newpage
+%\hfill \\[2cm]
+\setcounter{tocdepth}{3}				% Set to 1 to only include Chapters
+\setcounter{secnumdepth}{1}				% Removes numbering for subsubsections
+\pagenumbering{roman}
+\setcounter{page}{1}
+\tableofcontents				%
+
+\newpage						%%% UNCOMMENT FOR PRINT VERSION
+\thispagestyle{empty}			%%% UNCOMMENT FOR PRINT VERSION
+
+%	No intro page
+
+ % All content
+\mbox{}
+\newpage						%
+{\fontsize{8}{9}\selectfont				% Comment if full-page
+\frenchspacing
+\pagenumbering{arabic}
+\pagestyle{fancy}
+\setcounter{page}{1}
+\CenterWallPaper{.85}{background5.png}		% Uncomment if not full-page
+\addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
+\input{./Introduction.tex}			% General overview and setting information
+\input{./The_Clans.tex}				% Clans
+\input{./Blood_Magic.tex}			% General Blood Magic Rules
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\addtocontents{toc}{\protect\setcounter{tocdepth}{3}}
+\input{./Thaum-intro.tex}			% Thaumaturgy Intro
+\input{./Thaum-paths.tex}
+\input{./Thaum-rituals.tex}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\input{./Necro-intro.tex}			% Necromancy Intro
+%\input{./Necro-paths.tex}
+%\input{./Necro-rituals.tex}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{./Disclaimer.tex}		% Boilerplate text
+\addtocontents{toc}{\protect\setcounter{tocdepth}{0}}
+\input{./Changelog.tex}			% Changelog after publication
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Final Page with darker border
+	\newpage
+	\thispagestyle{empty}
+	\CenterWallPaper{.85}{background4.png}	% Uncomment if not full-page
+	\vspace*{7.6cm}
+	\begin{center}
+		{\large {\color{gray}\emph{Finis.}}}
+	\end{center}
+
+}										% Uncomment if not full-page
+
+\end{document}

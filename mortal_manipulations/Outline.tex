@@ -1,0 +1,119 @@
+% The class document for the Sanguine Dreams
+% MEGA LotN guide.  Created by Poetics
+
+\documentclass[10pt,twoside]{extarticle}
+
+\usepackage{pdfpages}
+\usepackage{multirow}
+\usepackage{bookman}
+\usepackage{wallpaper}
+\usepackage{color}
+\usepackage{pifont}				% Special symbol library
+\usepackage[usenames]{xcolor}	% Add coloration if necessary
+\usepackage{enumitem}
+\usepackage{tocloft}
+\usepackage{titlesec}
+\usepackage{fancyhdr}		% Custom headers/footers
+\usepackage{tabularx}
+\usepackage{units}
+\usepackage{longtable}
+\usepackage{graphicx}
+
+% This is to offset the "two-side" option above,
+% required for the FancyFooter package to work
+\setlength{\oddsidemargin}{0.87in}
+\setlength{\evensidemargin}{0.87in}
+
+\pagestyle{fancy}
+\fancyhead{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot{}
+\fancyfoot[CE,CO]{\sc{Ch.} \leftmark}
+\fancyfoot[LE,RO]{\thepage}
+
+%\usepackage{hyperref}	% Breaks for some unknown reason, I think because multiple 
+%	entries reference the same page #.
+
+%\usepackage{fullpage}		% Use if making booklet-style
+%\titleformat{\chapter}[hang]{\Huge\bfseries}{Ch. \thechapter}{0pt}{ --- \Huge\bfseries}
+	
+% All for the TOC
+\renewcommand{\cftsecleader}{\cftdotfill{\cftsecdotsep}}
+\renewcommand\cftsecdotsep{\cftdot}
+\renewcommand{\contentsname}{Table of Contents}
+%\renewcommand{\cftsecpresnum}{\begin{lrbox}}
+%\renewcommand{\cftsecaftersnum}{\end{lrbox}}
+\cftsetindents{section}{0in}{0.25in}
+\cftsetindents{subsection}{0.2in}{0.5in}
+
+\newcommand{\TitleRule}{\rule{\linewidth}{0.3mm}}
+\newcommand{\HRule}{\noindent\hfil\rule{0.5\textwidth}{0.2pt}\hfil}
+%\renewcommand{\footskip}{22pt}
+\renewcommand{\baselinestretch}{1.075}
+\setitemize{leftmargin=3mm,itemindent=0mm,itemsep=-1mm,topsep=2pt,rightmargin=3mm}
+\setenumerate{leftmargin=3mm,itemindent=0mm,itemsep=-1mm,topsep=2pt,rightmargin=3mm}
+\setdescription{leftmargin=3mm,itemindent=0mm,itemsep=-1mm,topsep=2pt,rightmargin=3mm}
+
+
+\begin{document}
+\includepdf{Influences_Cover.pdf}
+\ClearWallPaper
+\thispagestyle{empty}
+\mbox{}
+\newpage
+
+\addtolength{\wpXoffset}{-4pt}
+\addtolength{\wpYoffset}{1pt}
+\CenterWallPaper{.86}{background4.png}		% Uncomment if regular style
+\input{./Title_Page.tex}		%
+%Create the dedication page after the title
+\newpage
+\ClearWallPaper
+\mbox{}
+\thispagestyle{empty}
+% Table of Contents
+\newpage
+%\hfill \\[2cm]
+\setcounter{tocdepth}{2}				% Set to 1 to only include Chapters
+\pagenumbering{roman}
+\setcounter{page}{1}
+\tableofcontents				%
+\newpage						%
+\thispagestyle{empty}			%
+% No intro page
+% All content
+\mbox{}
+\newpage						%
+{\fontsize{8}{9}\selectfont				% Uncomment if not full-page
+\frenchspacing
+\pagenumbering{arabic}
+\pagestyle{fancy}
+\setcounter{page}{1}
+\CenterWallPaper{.85}{background5.png}		% Uncomment if not full-page
+\addtocontents{toc}{\protect\setcounter{tocdepth}{1}}
+\input{./Introduction.tex}
+\addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
+\input{./Actions.tex}
+\input{./Influences.tex}
+\addtocontents{toc}{\protect\setcounter{tocdepth}{1}}
+\input{./Contacts.tex}
+\addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
+\input{./InPlay.tex}
+\input{./Advanced.tex}
+\input{./Examples.tex}
+\input{./Disclaimer.tex}		% Boilerplate text
+\addtocontents{toc}{\protect\setcounter{tocdepth}{0}}
+\input{./Changelog.tex}			% Changelog after publication
+\addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
+% Final Page with darker border
+	\newpage
+	\thispagestyle{empty}
+	\CenterWallPaper{.85}{background4.png}	% Uncomment if not full-page
+	\vspace*{7.6cm}
+	\begin{center}
+		{\large {\color{gray}\emph{Finis.}}}
+	\end{center}
+
+}										% Uncomment if not full-page
+
+\end{document}
