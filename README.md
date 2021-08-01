@@ -13,5 +13,9 @@ were routinely recommended to purchase World of Darkness sourcebooks, even thoug
 long out of print. Section 1.1.1 of the final result (Outline.pdf) directly addresses the value 
 of these commercial properties.
 
+The "Mortal Maniuplations" document represents the full and complete rules for the *Influences* 
+Background used by the game. "Crimson Terrors" is the unfinished rules for the Disciplines of 
+Thaumaturgy and Necromancy.
+
 These files have been uploaded to github for posterity and in honor of the large amount of 
 creative, technical, and collaborative labor put into creating them.
