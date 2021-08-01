@@ -1,0 +1,206 @@
+\setcounter {tocdepth}{1}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}A Game of Make-Believe}{1}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Other Resources}{2}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}The Two Golden Rules}{3}{subsubsection.1.1.2}
+\contentsline {subsection}{\numberline {1.2}A World of Shadows}{3}{subsection.1.2}
+\contentsline {section}{\numberline {2}The CAG-SSU Club}{4}{section.2}
+\contentsline {section}{\numberline {3}Character Creation}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}The Mechanics of Creating a Character}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Special Notes}{6}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Sample Approval Items}{6}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}Character Sheets}{7}{subsection.3.3}
+\setcounter {tocdepth}{2}
+\contentsline {section}{\numberline {4}Thirteen Clans}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}The Camarilla}{7}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Brujah}{7}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Gangrel}{8}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Malkavians}{8}{subsubsection.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.4}Nosferatu}{9}{subsubsection.4.1.4}
+\contentsline {subsubsection}{\numberline {4.1.5}Toreador}{9}{subsubsection.4.1.5}
+\contentsline {subsubsection}{\numberline {4.1.6}Tremere}{9}{subsubsection.4.1.6}
+\contentsline {subsubsection}{\numberline {4.1.7}Ventrue}{10}{subsubsection.4.1.7}
+\contentsline {subsection}{\numberline {4.2}The Sabbat}{10}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Lasombra}{10}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Tzimisce}{11}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}The Anti-Tribu}{11}{subsubsection.4.2.3}
+\contentsline {subsection}{\numberline {4.3}Independent Clans}{11}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Assamites}{11}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Caitiff}{12}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}Followers of Set}{12}{subsubsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.4}Giovanni}{13}{subsubsection.4.3.4}
+\contentsline {subsubsection}{\numberline {4.3.5}Ravnos}{13}{subsubsection.4.3.5}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {4.4}``Others''}{13}{subsection.4.4}
+\setcounter {tocdepth}{2}
+\contentsline {section}{\numberline {5}Traits}{14}{section.5}
+\contentsline {subsection}{\numberline {5.1}Positive Traits}{14}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Physical Traits}{14}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Social Traits}{14}{subsubsection.5.1.2}
+\contentsline {subsubsection}{\numberline {5.1.3}Mental Traits}{15}{subsubsection.5.1.3}
+\contentsline {subsection}{\numberline {5.2}Negative Traits}{15}{subsection.5.2}
+\setcounter {tocdepth}{1}
+\contentsline {section}{\numberline {6}Abilities}{16}{section.6}
+\contentsline {subsection}{\numberline {6.1}Additional Rules}{18}{subsection.6.1}
+\contentsline {section}{\numberline {7}Backgrounds}{18}{section.7}
+\setcounter {tocdepth}{2}
+\contentsline {section}{\numberline {8}Merits and Flaws}{20}{section.8}
+\contentsline {subsection}{\numberline {8.1}Physical Merits}{20}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Physical Flaws}{22}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Social Merits}{23}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}Social Flaws}{24}{subsection.8.4}
+\contentsline {subsection}{\numberline {8.5}Mental Merits}{25}{subsection.8.5}
+\contentsline {subsection}{\numberline {8.6}Mental Flaws}{26}{subsection.8.6}
+\contentsline {subsection}{\numberline {8.7}Supernatural Merits}{27}{subsection.8.7}
+\contentsline {subsection}{\numberline {8.8}Supernatural Flaws}{29}{subsection.8.8}
+\contentsline {section}{\numberline {9}Morality and Virtues}{30}{section.9}
+\contentsline {subsection}{\numberline {9.1}What is Morality}{30}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Virtues}{32}{subsection.9.2}
+\contentsline {subsubsection}{\numberline {9.2.1}Mortals and Morality}{32}{subsubsection.9.2.1}
+\contentsline {subsection}{\numberline {9.3}Virtue Tests}{32}{subsection.9.3}
+\contentsline {subsubsection}{\numberline {9.3.1}Conscience/Conviction}{33}{subsubsection.9.3.1}
+\contentsline {subsubsection}{\numberline {9.3.2}Self-Control/Instinct}{33}{subsubsection.9.3.2}
+\contentsline {subsubsection}{\numberline {9.3.3}Courage}{33}{subsubsection.9.3.3}
+\contentsline {section}{\numberline {10}Other Statistics}{34}{section.10}
+\contentsline {subsection}{\numberline {10.1}Blood}{34}{subsection.10.1}
+\contentsline {subsubsection}{\numberline {10.1.1}Starting Blood Pool}{35}{subsubsection.10.1.1}
+\contentsline {subsection}{\numberline {10.2}Willpower}{35}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.3}Nature and Demeanor}{36}{subsection.10.3}
+\contentsline {subsubsection}{\numberline {10.3.1}Sample Archetypes}{36}{subsubsection.10.3.1}
+\contentsline {section}{\numberline {11}Disciplines}{37}{section.11}
+\contentsline {subsection}{\numberline {11.1}Animalism}{38}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}Auspex}{39}{subsection.11.2}
+\contentsline {subsection}{\numberline {11.3}Celerity}{40}{subsection.11.3}
+\contentsline {subsection}{\numberline {11.4}Dementation}{41}{subsection.11.4}
+\contentsline {subsection}{\numberline {11.5}Dominate}{41}{subsection.11.5}
+\contentsline {subsection}{\numberline {11.6}Fortitude}{43}{subsection.11.6}
+\contentsline {subsection}{\numberline {11.7}Necromancy}{43}{subsection.11.7}
+\contentsline {subsection}{\numberline {11.8}Obfuscate}{43}{subsection.11.8}
+\contentsline {subsection}{\numberline {11.9}Obtenebration}{44}{subsection.11.9}
+\contentsline {subsection}{\numberline {11.10}Potence}{45}{subsection.11.10}
+\contentsline {subsection}{\numberline {11.11}Presence}{46}{subsection.11.11}
+\contentsline {subsection}{\numberline {11.12}Protean}{47}{subsection.11.12}
+\contentsline {subsection}{\numberline {11.13}Quietus}{47}{subsection.11.13}
+\contentsline {subsection}{\numberline {11.14}Serpentis}{48}{subsection.11.14}
+\contentsline {subsection}{\numberline {11.15}Thaumaturgy}{48}{subsection.11.15}
+\contentsline {subsection}{\numberline {11.16}Vicissitude}{48}{subsection.11.16}
+\contentsline {subsection}{\numberline {11.17}Combination Powers}{49}{subsection.11.17}
+\contentsline {subsubsection}{\numberline {11.17.1}Assamite Combo Powers}{49}{subsubsection.11.17.1}
+\contentsline {subsubsection}{\numberline {11.17.2}Brujah Combo Powers}{50}{subsubsection.11.17.2}
+\contentsline {subsubsection}{\numberline {11.17.3}Follower of Set Combo Powers}{50}{subsubsection.11.17.3}
+\contentsline {subsubsection}{\numberline {11.17.4}Gangrel Combo Powers}{50}{subsubsection.11.17.4}
+\contentsline {subsubsection}{\numberline {11.17.5}Lasombra Combo Powers}{51}{subsubsection.11.17.5}
+\contentsline {subsubsection}{\numberline {11.17.6}Ravnos Combo Powers}{51}{subsubsection.11.17.6}
+\contentsline {subsubsection}{\numberline {11.17.7}Toreador Combo Powers}{51}{subsubsection.11.17.7}
+\contentsline {subsubsection}{\numberline {11.17.8}Tremere Combo Powers}{52}{subsubsection.11.17.8}
+\contentsline {subsubsection}{\numberline {11.17.9}Ventrue Combo Powers}{52}{subsubsection.11.17.9}
+\contentsline {section}{\numberline {12}Derangements}{53}{section.12}
+\contentsline {section}{\numberline {13}The Camarilla}{56}{section.13}
+\contentsline {subsection}{\numberline {13.1}The Traditions}{57}{subsection.13.1}
+\contentsline {subsection}{\numberline {13.2}Officers of the Camarilla}{57}{subsection.13.2}
+\contentsline {subsubsection}{\numberline {13.2.1}The Prince}{57}{subsubsection.13.2.1}
+\contentsline {subsubsection}{\numberline {13.2.2}Seneschal}{58}{subsubsection.13.2.2}
+\contentsline {subsubsection}{\numberline {13.2.3}Keeper of Elysium}{58}{subsubsection.13.2.3}
+\contentsline {subsubsection}{\numberline {13.2.4}Sheriff}{58}{subsubsection.13.2.4}
+\contentsline {subsubsection}{\numberline {13.2.5}Scourge}{59}{subsubsection.13.2.5}
+\contentsline {subsubsection}{\numberline {13.2.6}The Primogen Council}{59}{subsubsection.13.2.6}
+\contentsline {subsubsection}{\numberline {13.2.7}Harpies}{59}{subsubsection.13.2.7}
+\contentsline {subsubsection}{\numberline {13.2.8}The Others}{60}{subsubsection.13.2.8}
+\contentsline {subsection}{\numberline {13.3}Other Customs and Procedures}{60}{subsection.13.3}
+\contentsline {subsubsection}{\numberline {13.3.1}Acknowledgment}{60}{subsubsection.13.3.1}
+\contentsline {subsubsection}{\numberline {13.3.2}Holding Courts and Gathers}{61}{subsubsection.13.3.2}
+\contentsline {subsubsection}{\numberline {13.3.3}Embrace and the Accounting}{61}{subsubsection.13.3.3}
+\contentsline {subsubsection}{\numberline {13.3.4}Elysium}{61}{subsubsection.13.3.4}
+\contentsline {subsubsection}{\numberline {13.3.5}Punishment within the Camarilla}{62}{subsubsection.13.3.5}
+\contentsline {subsubsection}{\numberline {13.3.6}Boons}{63}{subsubsection.13.3.6}
+\contentsline {subsection}{\numberline {13.4}Hostile Threats}{64}{subsection.13.4}
+\contentsline {section}{\numberline {14}Status}{65}{section.14}
+\contentsline {subsection}{\numberline {14.1}What Status Means}{65}{subsection.14.1}
+\contentsline {subsubsection}{\numberline {14.1.1}Visiting Another Sect}{66}{subsubsection.14.1.1}
+\contentsline {subsubsection}{\numberline {14.1.2}Status in Challenges}{66}{subsubsection.14.1.2}
+\contentsline {subsection}{\numberline {14.2}Age-Related Status}{66}{subsection.14.2}
+\contentsline {subsection}{\numberline {14.3}Patronage Status}{67}{subsection.14.3}
+\contentsline {subsection}{\numberline {14.4}Positional Status}{68}{subsection.14.4}
+\contentsline {subsubsection}{\numberline {14.4.1}Limits on Officers' Abilities to Affect Status}{69}{subsubsection.14.4.1}
+\contentsline {subsection}{\numberline {14.5}Examples of Status Totals}{69}{subsection.14.5}
+\contentsline {section}{\numberline {15}Challenges}{69}{section.15}
+\contentsline {subsection}{\numberline {15.1}The Challenge Process}{70}{subsection.15.1}
+\contentsline {subsubsection}{\numberline {15.1.1}Special Hand Signs and Abilities}{70}{subsubsection.15.1.1}
+\contentsline {subsection}{\numberline {15.2}Types of Challenges}{71}{subsection.15.2}
+\contentsline {subsection}{\numberline {15.3}The Initial Trait Bid}{71}{subsection.15.3}
+\contentsline {subsubsection}{\numberline {15.3.1}Negative Traits}{72}{subsubsection.15.3.1}
+\contentsline {subsubsection}{\numberline {15.3.2}Not having enough traits}{72}{subsubsection.15.3.2}
+\contentsline {subsubsection}{\numberline {15.3.3}Ties with No Defender}{72}{subsubsection.15.3.3}
+\contentsline {subsubsection}{\numberline {15.3.4}Sacrificing Traits}{72}{subsubsection.15.3.4}
+\contentsline {subsubsection}{\numberline {15.3.5}Challenges with No Valid Defender}{73}{subsubsection.15.3.5}
+\contentsline {subsection}{\numberline {15.4}Retests and Canceling}{73}{subsection.15.4}
+\setcounter {tocdepth}{1}
+\contentsline {subsection}{\numberline {15.5}Remote Challenges}{73}{subsection.15.5}
+\setcounter {tocdepth}{2}
+\contentsline {section}{\numberline {16}Combat}{74}{section.16}
+\contentsline {subsection}{\numberline {16.1}The Combat Turn}{74}{subsection.16.1}
+\contentsline {subsection}{\numberline {16.2}Initiative}{75}{subsection.16.2}
+\contentsline {subsection}{\numberline {16.3}Movement}{76}{subsection.16.3}
+\contentsline {subsection}{\numberline {16.4}Special Attacks}{76}{subsection.16.4}
+\contentsline {subsubsection}{\numberline {16.4.1}Victory conditions}{76}{subsubsection.16.4.1}
+\contentsline {subsubsection}{\numberline {16.4.2}Staking}{77}{subsubsection.16.4.2}
+\contentsline {subsubsection}{\numberline {16.4.3}Grappling}{77}{subsubsection.16.4.3}
+\contentsline {subsubsection}{\numberline {16.4.4}Biting/Feeding}{77}{subsubsection.16.4.4}
+\contentsline {subsubsection}{\numberline {16.4.5}Touch-Based Powers}{77}{subsubsection.16.4.5}
+\contentsline {subsubsection}{\numberline {16.4.6}Two-Weapon Combat}{78}{subsubsection.16.4.6}
+\contentsline {subsubsection}{\numberline {16.4.7}Called Shots}{78}{subsubsection.16.4.7}
+\contentsline {subsection}{\numberline {16.5}Fair Escape}{78}{subsection.16.5}
+\contentsline {subsection}{\numberline {16.6}Special Circumstances}{78}{subsection.16.6}
+\contentsline {subsubsection}{\numberline {16.6.1}Mob Combat}{79}{subsubsection.16.6.1}
+\contentsline {subsubsection}{\numberline {16.6.2}Surprise}{79}{subsubsection.16.6.2}
+\contentsline {subsubsection}{\numberline {16.6.3}Fighting in Darkness}{80}{subsubsection.16.6.3}
+\contentsline {subsection}{\numberline {16.7}Diablerie}{80}{subsection.16.7}
+\contentsline {subsubsection}{\numberline {16.7.1}Engaging in the Amaranth}{80}{subsubsection.16.7.1}
+\contentsline {subsubsection}{\numberline {16.7.2}Changing your Mind}{81}{subsubsection.16.7.2}
+\contentsline {subsubsection}{\numberline {16.7.3}Benefits and Drawbacks of Diablerie}{81}{subsubsection.16.7.3}
+\contentsline {subsection}{\numberline {16.8}Frenzy and R\"{o}tschreck}{81}{subsection.16.8}
+\contentsline {subsubsection}{\numberline {16.8.1}Controlling and Stopping the Beast}{82}{subsubsection.16.8.1}
+\setcounter {tocdepth}{1}
+\contentsline {section}{\numberline {17}Items}{83}{section.17}
+\contentsline {subsection}{\numberline {17.1}Weapons}{83}{subsection.17.1}
+\contentsline {subsubsection}{\numberline {17.1.1}Weapon Traits}{83}{subsubsection.17.1.1}
+\contentsline {subsubsection}{\numberline {17.1.2}Melee Weapons}{84}{subsubsection.17.1.2}
+\contentsline {subsubsection}{\numberline {17.1.3}Thrown and Projectile Weapons}{84}{subsubsection.17.1.3}
+\contentsline {subsubsection}{\numberline {17.1.4}Firearms}{85}{subsubsection.17.1.4}
+\contentsline {subsection}{\numberline {17.2}Armour}{85}{subsection.17.2}
+\contentsline {subsubsection}{\numberline {17.2.1}Shields}{85}{subsubsection.17.2.1}
+\setcounter {tocdepth}{2}
+\contentsline {section}{\numberline {18}Health and Healing}{86}{section.18}
+\contentsline {subsection}{\numberline {18.1}Types of Damage}{86}{subsection.18.1}
+\contentsline {subsection}{\numberline {18.2}Torpor and Death}{87}{subsection.18.2}
+\contentsline {subsection}{\numberline {18.3}Healing Damage}{88}{subsection.18.3}
+\contentsline {subsection}{\numberline {18.4}Being Staked}{88}{subsection.18.4}
+\contentsline {section}{\numberline {19}Additional Systems}{88}{section.19}
+\contentsline {subsection}{\numberline {19.1}Fair Play and Metagaming}{89}{subsection.19.1}
+\contentsline {subsubsection}{\numberline {19.1.1}``For the Good of the Game''}{89}{subsubsection.19.1.1}
+\contentsline {subsection}{\numberline {19.2}Time Definitions}{90}{subsection.19.2}
+\contentsline {subsection}{\numberline {19.3}Blood Bonds}{90}{subsection.19.3}
+\contentsline {subsubsection}{\numberline {19.3.1}Resisting the Bond}{91}{subsubsection.19.3.1}
+\contentsline {subsection}{\numberline {19.4}Ghouls and Retainers}{91}{subsection.19.4}
+\contentsline {subsection}{\numberline {19.5}Downtime Actions}{92}{subsection.19.5}
+\contentsline {subsection}{\numberline {19.6}Feeding and Living Night-to-Night}{93}{subsection.19.6}
+\contentsline {subsection}{\numberline {19.7}Actions During the Day}{93}{subsection.19.7}
+\contentsline {subsection}{\numberline {19.8}Havens and Holdings}{94}{subsection.19.8}
+\contentsline {subsection}{\numberline {19.9}OOC Hand Signs}{94}{subsection.19.9}
+\setcounter {tocdepth}{1}
+\contentsline {section}{\numberline {20}Experience}{95}{section.20}
+\contentsline {subsection}{\numberline {20.1}Earning XP}{95}{subsection.20.1}
+\contentsline {subsection}{\numberline {20.2}Spending XP}{95}{subsection.20.2}
+\setcounter {tocdepth}{2}
+\setcounter {tocdepth}{1}
+\contentsline {section}{\numberline {21}The Role of Storytellers}{96}{section.21}
+\contentsline {subsection}{\numberline {21.1}A Dark, Wide World}{96}{subsection.21.1}
+\contentsline {subsection}{\numberline {21.2}Plot-lines and Direction}{97}{subsection.21.2}
+\contentsline {subsection}{\numberline {21.3}Out of Character Considerations}{97}{subsection.21.3}
+\contentsline {subsection}{\numberline {21.4}Organization}{98}{subsection.21.4}
+\contentsline {subsection}{\numberline {21.5}Contacting the Storytellers}{98}{subsection.21.5}
+\setcounter {tocdepth}{2}
+\contentsline {section}{\numberline {22}Copyright Disclaimer}{99}{section.22}
+\setcounter {tocdepth}{0}
+\contentsline {section}{\numberline {23}Change and Revision Log}{99}{section.23}
+\setcounter {tocdepth}{1}
